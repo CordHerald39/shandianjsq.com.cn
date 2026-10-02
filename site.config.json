@@ -1,0 +1,62 @@
+{
+  "folder": "27【shandianjsq.com.cn】",
+  "name": "闪电加速器",
+  "key": "guide",
+  "port": 4309,
+  "color": "#4054a2",
+  "tag": "SHANDIANJSQ",
+  "hero": [
+    "闪电加速器",
+    "连接体验，从正确配置开始。"
+  ],
+  "intro": "¥1/月起，10 GB 轻量入门，100 GB 与 250 GB 满足更多日常需求。先看清流量与计费规则，再按设备下载客户端、导入订阅并验证连接。",
+  "prices": [
+    1,
+    5,
+    10
+  ],
+  "traffic": [
+    10,
+    100,
+    250
+  ],
+  "labels": [
+    "轻量",
+    "日常",
+    "畅享"
+  ],
+  "domain": "shandianjsq.com.cn",
+  "authorized": false,
+  "previewPort": 4309,
+  "title": "闪电加速器中文指南 | 下载、配置教程与常见问题",
+  "description": "闪电加速器中文资料站：延迟与下载速度的区别，提供客户端下载来源、订阅配置步骤、设备检查和故障排查资料。",
+  "speeds": [
+    30,
+    100,
+    200
+  ],
+  "regions": [
+    {
+      "name": "香港",
+      "count": 4,
+      "role": "近距离日常访问"
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "role": "东亚内容与流媒体目标"
+    },
+    {
+      "name": "新加坡",
+      "count": 2,
+      "role": "东南亚备用区域"
+    },
+    {
+      "name": "美国",
+      "count": 2,
+      "role": "跨洋访问与流媒体目标"
+    }
+  ],
+  "origin": "https://shandianjsq.com.cn",
+  "focus": "延迟与下载速度的区别"
+}
